@@ -17,6 +17,4 @@
 - Create a static image with code.
 - Visualize yourself.
 
-When you are finished, reflect in a comment at the top of your sketch about what you were trying to
-accomplish. How does the graphical form of running the program compare with the textual nature of the
-code?
+When you are finished, reflect in a comment at the top of your sketch about what you were trying to accomplish. How does the graphical form of running the program compare with the textual nature of the code?
